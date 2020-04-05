@@ -27,3 +27,6 @@ mybatis:
   mapper-locations:
     - mapping/*Mapper.xml
   type-aliases-package: one.stand.model
+#测试
+bood:
+  codl: 666
