@@ -29,4 +29,4 @@ mybatis:
   type-aliases-package: one.stand.model
 #测试
 bood:
-  codl: 666
+  codl: 6666
